@@ -1,6 +1,10 @@
 # LBCC
 source code
-python#################################################################################################################
+
+python
+
+#################################################################################################################
+
 1.Software version:
 
 The Python code is written for Python 2.7.
@@ -28,25 +32,35 @@ If you want to change the input data, please copy the contents of PPI networks i
 (3) the number of true essential proteins is determined according to attribute ESS in file "output.txt"
 
 
-c++#######################################################################################################
+c++
+
+#######################################################################################################
 
 1.Experimental environment:
+
 Ubuntu 14.04.4 LTS
+
 Linux version 4.2.0-27-generic
+
 gcc version 4.8.2
 
 
 2.
 complex.txt: the information of protein complexes.
+
 deg.txt: the essential proteins.
+
 input.txt: the input file(PPI networks), format(proteinname	proteinname	).
+
 output.txt: the output file. 
 
 
 3.Usage
+
 Running LBCC from command line:
 
 (1) g++ centrality-cpu.cpp fheap.cpp graph.cpp -o out
+
 (2) ./out
 
 If you want to change the input data, please copy the contents of PPI networks into the file "input.txt".
