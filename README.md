@@ -45,7 +45,8 @@ Linux version 4.2.0-27-generic
 gcc version 4.8.2
 
 
-2.
+2.The information of files:
+
 complex.txt: the information of protein complexes.
 
 deg.txt: the essential proteins.
