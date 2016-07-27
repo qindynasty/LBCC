@@ -10,9 +10,13 @@ The Python code is written for Python 2.7.
 2.The information of files:
 
 complex.txt: the information of protein complexes of Saccharomyces cerevisiae.
+
 deg.txt: the essential proteins of Saccharomyces cerevisiae.
+
 input.txt: the input file(PPI networks)
+
 output.txt: the output file. 
+
 PPI data: the folder contains four input files of PPI networks. 
 
 3.Usage
