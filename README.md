@@ -1,9 +1,7 @@
 # LBCC
 source code
 
-python
-
-#################################################################################################################
+python#################################################################################################################
 
 1.Software version:
 
@@ -32,9 +30,7 @@ If you want to change the input data, please copy the contents of PPI networks i
 (3) the number of true essential proteins is determined according to attribute ESS in file "output.txt"
 
 
-c++
-
-#######################################################################################################
+c++#######################################################################################################
 
 1.Experimental environment:
 
